@@ -1,0 +1,15 @@
+e2da74c310e6f905ae3d02077c0bd0d5 *DESCRIPTION
+96268138b48357ff1f0110933646dac0 *LICENSE
+9843bc9c6c7d6ab77d857b9453f13589 *NAMESPACE
+8cab265156140aa37db2eb164265e7f2 *NEWS.md
+451d775afbe1806f9db4e43ad7266d8b *R/idx2r.R
+273f6110b43ab639c56c62f15e01eba1 *R/read_idx.R
+a72de1bed4bd9b93cbca741267c22c9b *R/write_idx.R
+b45c59f64da225638f66e570e11186c3 *README.md
+0a62700732280e66224decdd92bcefef *man/idx2r-package.Rd
+5ea86628a1a6e226df5449246067781c *man/read_idx.Rd
+1eb156a351078712d5586ce713219512 *man/write_idx.Rd
+08055a7e07e5b050bd4b143575dc8d98 *tests/testthat.R
+790d512014c9ca4cf81502590ea805ec *tests/testthat/test-error-w.R
+c966f0b15bd6f0723649f24b55ab571b *tests/testthat/test-rw-double.R
+1123f9b749bcf2e740c863b5c0c22889 *tests/testthat/test-rw-int.R
